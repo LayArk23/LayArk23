@@ -53,7 +53,6 @@ Hi, I'm Swarab Raul, a passionate programmer 🌐 and learner📕from India .
 <summary>⚡GitHub Stats</summary>
 
 ![Swarab's GitHub stats](https://github-readme-stats.vercel.app/api?username=layark23&show_icons=true&theme=radical)
-[![Swarab's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=layark23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
