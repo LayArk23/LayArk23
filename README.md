@@ -10,7 +10,7 @@ Hi, I'm Swarab Raul, a passionate programmer 🌐 and learner📕from India .
 - 📖 I'm currently pursuing my B.Tech in Computer Science and Engineering with specialization in Artificial Intelligence and Machine Learning.
 - 🌱 I'm currently learning C, C++, Rust and Javascript.
 - 😄 Fun Fact: I have a keen interested in Aeromodelling, Drones, and Robotics.
-- 🥅 2022 Goals:
+- 🥅 2022 Goals: Become a Full Stack Developer.
 - 💬 Ask me about anything [here](https://github.com/SwarabRaul/SwarabRaul/issues)
 
 <!--
