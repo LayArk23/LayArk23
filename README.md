@@ -50,9 +50,9 @@ Hi, I'm Swarab Raul, a passionate programmer 🌐 and learner📕from India .
 ---
 
 <details>
-<summary>⚡GitHub Stats</summary>
+<!-- <summary>⚡GitHub Stats</summary> -->
 
-![Swarab's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwarabRaul&show_icons=true&theme=radical)
+<!-- ![Swarab's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwarabRaul&show_icons=true&theme=radical) -->
 
 </details>
 
